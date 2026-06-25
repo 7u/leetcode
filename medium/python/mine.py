@@ -1,4 +1,5 @@
-﻿class Solution(object):
+﻿## 529. Minesweeper
+class Solution(object):
     def updateBoard(self, board, click):
         x = click[0]
         y = click[1]
